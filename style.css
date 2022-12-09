@@ -1,0 +1,219 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+/*Lo que forma la página en general*/
+
+body,
+html {
+    margin: 0px;
+    padding: 0%;
+    height: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*header de todas las páginas*/
+header {
+    position: absolute;
+    width: 100%;
+    height: 15%;
+    background-color: black;
+    color: aliceblue;
+}
+
+/*color de los botones del header*/
+.apartados a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+/*logo que aparece arriba a la izquierda*/
+.logoscp {
+    top: -8%;
+    width: 15%;
+    left: -1%;
+    height: auto;
+    position: absolute;
+
+}
+
+/*todo lo relacionado con los botones del header*/
+.navdelosapartados {
+    float: right;
+}
+
+li {
+    display: inline-block;
+}
+
+li:hover {
+    background-color: blueviolet;
+}
+
+.listado {
+    margin-left: -4px;
+    margin-top: 0px;
+    padding: 60px;
+}
+
+/*Parte izquierda de la página donde se ubica el gif*/
+.izq {
+    position: absolute;
+    width: 15%;
+    height: 85%;
+    top: 15%;
+}
+
+/*medidas del gif*/
+.interferencia {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: auto;
+}
+
+/*medidas y color del main*/
+main {
+    color: aliceblue;
+    position: absolute;
+    background-color: rgb(27, 25, 25);
+    width: 85%;
+    height: 85%;
+    top: 15%;
+    left: 15%;
+}
+
+/*medidas y color del footer*/
+footer {
+    color: aliceblue;
+    position: absolute;
+    top: 98%;
+    background-color: black;
+    width: 100%;
+    height: 20%;
+}
+
+/*texto que indica el creador en la zona del footer*/
+.texto1 {
+    font-size: smaller;
+    position: absolute;
+    top: 5%;
+    text-align: justify;
+}
+
+/*logo de github ubicado en el footer*/
+.logogithub {
+    top: 60%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+
+/*texto al lado de la imagen de github*/
+.texto2 {
+    color: blueviolet;
+    font-style: oblique;
+    font-size: smaller;
+    top: 69%;
+    left: 3%;
+    position: absolute;
+}
+
+/*div de main que contiene el texto de la introducción*/
+
+.divmain {
+    margin-top: 80px;
+    position: absolute;
+    margin-left: 300px;
+    margin-right: 900px;
+}
+
+/*Textos del main de introducción*/
+.prueba {
+    color: red;
+    margin-bottom: 34px;
+    margin-left: 52px;
+}
+
+.prueba2 {
+    color: aliceblue;
+    line-height: 21px;
+}
+
+/*imagen del main ubicada en introduccion*/
+.scp173 {
+    width: 400px;
+    height: 500px;
+    top: 20%;
+    left: 60%;
+    position: absolute;
+}
+
+/*div que contiene los inputs que aparecen en el formulario*/
+.preguntas {
+    margin-left: 120px;
+    position: absolute;
+    margin-top: 130px;
+}
+
+/*boton enviar del formulario*/
+.enviar:hover {
+    background-color: black;
+    color: aliceblue;
+}
+
+/*imgen que aparece en el apartado de formulario*/
+.logoformulario {
+    left: 43%;
+    top: 13%;
+    position: absolute;
+}
+
+/*ajustes del boton*/
+.enviar {
+    position: absolute;
+    left: 63%;
+    bottom: 3%;
+}
+
+/*nombre del titular del curriculum*/
+.tdtexto0 {
+    position: absolute;
+    right: 55%;
+    top: 8%;
+    color: blueviolet;
+}
+
+/*texto del apartado de experiencia del curriculum*/
+.tdtexto {
+    position: absolute;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 130px;
+}
+
+/*foto que aparece en curriculum*/
+.fotoscp {
+    position: absolute;
+    margin-left: 1180px;
+    margin-top: 30px;
+}
+
+/*texto de lo que ofrece en el curriculum*/
+.tdtexto2 {
+    position: absolute;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 450px;
+}
+
+/*hiperenlace que lleva al formulario*/
+.botoncontacto a {
+    position: absolute;
+    margin-left: 1130px;
+    margin-top: 600px;
+    text-decoration: none;
+    color: blueviolet;
+}
+

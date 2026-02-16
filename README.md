@@ -10,5 +10,5 @@ para avanzar en su vida estudiantil y aspirar a un trabajo como programador o a 
 - 💬 Si tienes alguna duda acerca de cualquier tema informático puedes preguntarme! De algo tiene que servir tener un par de años de experiencia en el sector ^^.
 - 📫 Si buscas contactar conmigo te recomiendo que pruebes con mi correo personal, lo podrás encontrar en mi perfil :D.
 
-Si has llegado a leer hasta aquí significa que realmente te interesa mi perfil, me alegro mucho que personas con gustos afines a los mios se paren a conocer un poco mas de mi!
+Si has llegado a leer hasta aquí significa que realmente te interesa mi perfil, me alegro mucho que personas con gustos afines a los mios se paren a conocer un poco mas de mi, si es así animate a mandarme un correo!
 

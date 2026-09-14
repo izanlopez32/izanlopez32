@@ -40,5 +40,6 @@ Aprendiendo actualmente
 
 <br>
 📫 Contacto
+<br>
 <p align="left"> <a href="mailto:izanortega22@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"> <i>¡Gracias por pasarte por mi perfil! 🚀</i> </p>
 

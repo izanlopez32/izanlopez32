@@ -34,9 +34,9 @@ Aprendiendo actualmente
 
 <p align="left"> <img src="https://img.shields.io/badge/Machine_Learning-013243?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/IA_Generativa-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Big_Data-FFCA28?style=for-the-badge&logo=apachehadoop&logoColor=black" /> </p> <br>
 📊 Estadísticas de GitHub
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" /> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=izanlopez32&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izanlopez32&layout=compact&hide_border=true" /> </p>
 
-⚠️ Recuerda sustituir TU_USUARIO por tu nombre de usuario real de GitHub para que se muestren tus estadísticas.
+
 
 <br>
 📫 Contacto

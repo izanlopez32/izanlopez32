@@ -2,12 +2,12 @@
 
 Soy Izan (o Ethan, como me gusta que me llamen), tengo 21 años y soy técnico informático, actualmente cursando un Máster en Big Data & IA en Tajamar para avanzar en mi vida estudiantil y aspirar a un puesto como científico de datos o similar.
 
-🔭 Actualmente trabajo en la Universidad Antonio de Nebrija, concretamente en el campus ubicado en la Calle Princesa, Madrid.
-🌱 Últimamente estoy aprendiendo muchísimo. Lo último ha sido Vue y cómo implementarlo en un contexto real — he de admitir que me está gustando más de lo que imaginaba.
-👯 Me encantaría profundizar en Machine Learning, IA generativa y el tratamiento masivo de datos.
-🤔 A pesar de sacar casi siempre buenas notas, reconozco que necesito un poco de ayuda con temas de back-end (me apasiona y me confunde a partes iguales).
-💬 Si tienes alguna duda sobre cualquier tema informático, ¡puedes preguntarme! De algo tienen que servir un par de años de experiencia en el sector ^^.
-📫 Si quieres contactar conmigo, escríbeme a mi correo personal: izanortega22@gmail.com.
+🔭 Actualmente trabajo en la Universidad Antonio de Nebrija, concretamente en el campus ubicado en la Calle Princesa, Madrid.<br>
+🌱 Últimamente estoy aprendiendo muchísimo. Lo último ha sido Vue y cómo implementarlo en un contexto real — he de admitir que me está gustando más de lo que imaginaba.<br>
+👯 Me encantaría profundizar en Machine Learning, IA generativa y el tratamiento masivo de datos.<br>
+🤔 A pesar de sacar casi siempre buenas notas, reconozco que necesito un poco de ayuda con temas de back-end (me apasiona y me confunde a partes iguales).<br>
+💬 Si tienes alguna duda sobre cualquier tema informático, ¡puedes preguntarme! De algo tienen que servir un par de años de experiencia en el sector ^^.<br>
+📫 Si quieres contactar conmigo, escríbeme a mi correo personal: izanortega22@gmail.com.<br>
 
 Si has llegado a leer hasta aquí es que realmente te interesa mi perfil, ¡y me alegro mucho! Si tienes gustos afines a los míos, anímate a mandarme un correo.
 
